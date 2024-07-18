@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@aws-cdk/aws-lambda": "^1.204.0",
+    "@aws-cdk/aws-lambda-nodejs": "^1.204.0",
+    "aws-cdk-lib": "^2.149.0",
+    "constructs": "^10.3.0"
+  },
+  "name": "aws",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^20.14.11"
+  }
+}
